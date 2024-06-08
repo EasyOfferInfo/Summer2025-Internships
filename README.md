@@ -8,6 +8,16 @@
 
 | 💼 Job  | 🏢 Company | 📅 Date | ✅ Applied? |
 |--------|----------|-------|-----------|
+| Software Engineer Intern - IoT Division | Vantiva | 2024-06-08 | <a href="https://haooffer.net/jobs?pageId=31&infoId=3011"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>  |
+| Software Engineering Intern | embecta | 2024-06-08 | <a href="https://haooffer.net/jobs?pageId=31&infoId=3011"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>  |
+| Software Engineering Intern | Iron Mountain | 2024-06-07 | <a href="https://haooffer.net/jobs?pageId=31&infoId=3011"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>  |
+| 【2024】Developer Relations Intern | Aerospike | 2024-06-07 | <a href="https://haooffer.net/jobs?pageId=31&infoId=3011"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>  |
+| Software Engineer Intern | ATPCO | 2024-06-05 | <a href="https://haooffer.net/jobs?pageId=31&infoId=3011"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>  |
+| Software Engineer Intern | Allvue Systems | 2024-06-04 | <a href="https://haooffer.net/jobs?pageId=31&infoId=3011"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>  |
+| Electronic Warfare Software Engineer Intern | Leidos | 2024-06-04 | <a href="https://haooffer.net/jobs?pageId=31&infoId=3011"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>  |
+| Software Engineer - C++ Windows Agent Intern | ClickJobs.io | 2024-06-04 | <a href="https://haooffer.net/jobs?pageId=31&infoId=3011"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>  |
+| Summer Intern - Software Development | NETSYNC | 2024-06-04 | <a href="https://haooffer.net/jobs?pageId=31&infoId=3011"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>  |
+| Software Engineer Intern (Web Developer) | Wildcat Discovery Technologies | 2024-06-02 | <a href="https://haooffer.net/jobs?pageId=31&infoId=3011"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>  |
 | Software Engineer Graduate Intern | Intel Corporation | 2024-06-01 | <a href="https://haooffer.net/jobs?pageId=31&infoId=3011"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>  |
 | Software Engineering Intern | LinkSquares | 2024-06-01 | <a href="https://haooffer.net/jobs?pageId=31&infoId=3011"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>  |
 | Software Architecture Intern | Xylem | 2024-06-01 | <a href="https://haooffer.net/jobs?pageId=31&infoId=3011"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>  |
