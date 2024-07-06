@@ -1,5 +1,6 @@
 # EasyOffer provides real-time tracking of job opportunities from over 🚀 30,000 companies, 🚀ensuring you have access to the latest job postings
 
+Collection of Summer 2025 tech internships!
 
 	🌍 Loc  [✅] 🇺🇸 US [ ] 🇨🇦CA [ ] 🇸🇬 SG [ ] 🇭🇰 HK [ ] 🇪🇺EU 
 	🔧 Role [✅] SDE [ ] MLE [ ] DS [ ] DA [ ] Analyst
